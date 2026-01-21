@@ -21,6 +21,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" height="60" alt="matplotlib logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="60" alt="matplotlib logo"  />
+  <img width="12" />          
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo"  />
