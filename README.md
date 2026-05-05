@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Data alchemist, transforming raw numbers into golden insights.</h3>
+<h3 align="center">A Data alchemist — crafting data into intelligence and intelligence into action.</h3>
 
 ###
 
